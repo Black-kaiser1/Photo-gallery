@@ -1,2 +1,2 @@
 # Photo-gallery
-a photo gallery using html and css codes
+a photo gallery using html and css codes 
